@@ -1,0 +1,68 @@
+body
+{	background-image:url(dark.jpeg);
+		background-repeat:no-repeat;
+		background-size:100% 700px;
+		background-color:red;
+	
+}
+
+.simple-form
+{
+	
+	text-align:center;
+	margin:100px 400px;
+}
+
+#registration
+{
+	
+	background-color:#051019;
+	width:100%;
+	opacity:0.8;
+	padding: 50px 0px;
+}
+
+#button
+{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+}
+
+#ph
+{
+	width:50px;
+	padding:10px;
+	border-radius:5px;
+}
+
+#phone
+{
+	width:200px;
+	padding:10px;
+	border-radius:5px;
+}
+
+#but
+{
+	font-size:18px;
+	color:white;
+	
+}
+
+
+#butt
+{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	background-color:#0c6996;
+	font-size:18px;
+	color:aliceblue;
+
+}
+
+
+
+
+
